@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- 
+All notifications added will be written to database.xml file stored in server directory, and not the one in your 
+project directory.
+To check contents of database.xml file, go to :
+C:\Users\user-name\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\PMS\WEB-INF\classes\resources
+user-name : is your User folder name in your Windows PC.
+
+Still if any doubts, contact Nevil
+-->
+<root>
+    <notifications>
+        
+    </notifications>
+</root>
